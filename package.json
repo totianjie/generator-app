@@ -1,0 +1,28 @@
+{
+  "name": "generator-app",
+  "version": "1.0.0",
+  "description": "this is generator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totianjie/generator-app.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/totianjie/generator-app/issues"
+  },
+  "files": [
+    "generators"
+  ],
+  "homepage": "https://github.com/totianjie/generator-app#readme",
+  "dependencies": {
+    "yeoman-generator": "^2.0.3"
+  }
+}
